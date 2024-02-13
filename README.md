@@ -1,4 +1,4 @@
-# Parkinson's Disease Detection Using Sketch Analysis and Deep Learning
+# Parkinson's Disease Diagnosis Using Sketch Analysis and Deep Learning
 
 This research project focuses on the detection of Parkinson's Disease (PD) by analyzing sketching behavior, a fine motor symptom of PD. We conducted experiments on a substantial number of individuals, both with PD and a healthy control group. The objective was to introduce a system capable of differentiating PD patients based on their sketching behavior.
 
